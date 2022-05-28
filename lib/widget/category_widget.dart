@@ -39,7 +39,7 @@ class CategoryWidget extends StatelessWidget {
             ),
             Center(
               child: Text(
-                food.category,
+                food.category + '!',
                 style: whiteTitle.copyWith(fontSize: 18.0),
               ),
             ),

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hello_happy_food/screen/firstscreen.dart';
-import 'package:hello_happy_food/screen/homepage.dart';
 
 void main() {
   runApp(const MyApp());
